@@ -151,11 +151,16 @@ h2 ~ p {
 .footer-nav a {
   color: #ccc;
 }
-
+.footer-social li {
+  padding-top: 0;
+}
 /* HERO STYLES */
 .full-hero {
   background-color: #c7dbfc;
   height: 50vh;
+}
+.hero-social li {
+  padding-top: 1em;
 }
 
 /* SOCIAL STYLES */
@@ -164,6 +169,12 @@ h2 ~ p {
   padding: 0;
   text-align: center;
 }
+.social-list > li {
+  display: inline-block;
+  margin: 0 0.5em;
+}
+
+/* SOCIAL LINKS */
 .social-link {
   background: rgba(150, 150, 150, 0.5);
   border-radius: 99px;
@@ -180,10 +191,6 @@ h2 ~ p {
   text-decoration: none;
   vertical-align: middle;
   width: 2.5em;
-}
-.social-list > li {
-  display: inline-block;
-  margin: 0 0.5em;
 }
 
 /* BIO STYLES */
