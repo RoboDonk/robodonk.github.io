@@ -1,6 +1,43 @@
 <head>
-  <title>Test Page: Don't Panic</title>
+
+<!-- PAGE.TITLES -->
+  {% if page.title %}
+     <title>{{ page.title }} | CCG</title>
+     <meta property="og:title" content="{{ page.title }} | CCG">
+   {% else %}
+     <title>Copenhagen Chain Gang</title>
+     <meta property="og:title" content="Copenhagen Chain Gang">
+   {% endif %}
+
+<!-- PAGE.DESCRIPTIONS -->
+   {% if page.description %}
+     <meta name="description" content="{{ page.description }}">
+     <meta property="og:description" content="{{ page.description }}">
+   {% else %}
+     <meta name="description" content="Chew Copenhagen, fresh since 1822">
+     <meta property="og:description" content="Pack another dinger of Wintergreen Copenhagen">
+   {% endif %}
+
+<!-- FAVICON -->
+  <link href="images/favicon.png" rel="icon">
+
+<!-- TOUCH ICON -->
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+<!-- SOMETHING I DON'T UNDERSTAND YET -->
   <meta charset="utf-8">
+
+<!-- VIEWPORT -->
   <meta name="viewport" content="width=500px, initial-scale=1">
+
+<!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet"
+        href="/fonts/fontawesome-free-6.0.0-web/css/all.min.css">
+
+<!-- EXTERNAL STYLESHEET LINKS -->
   <link rel="stylesheet" href="/css/main.css">
+
 </head>

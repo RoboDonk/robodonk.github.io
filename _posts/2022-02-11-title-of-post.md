@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Blog Post Ever
+title: Chain Gang Manifesto
 postHero: /images/Booster.jpg
 author: RoboDonkey
 authorTwitter: https://twitter.com/

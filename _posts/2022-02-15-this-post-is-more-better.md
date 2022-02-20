@@ -1,12 +1,54 @@
 ---
 layout: post
-title: Forget It! This Post is More Better!
+title: Why We Chew Cope
 postHero: /images/blob.jpg
 author: RoboDonkey
 authorTwitter: https://twitter.com/
 gravatar: https://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=32&d=identicon&r=PG
 postFooter: Photo Credit <a href="https://www.flickr.com/photos/20785192@N02/5874153989/in/dateposted-public/">a steezy person</a>
 ---
-Gently sores little helmet-man through the air, but less gentle will be his landing and consequent descent into the deep blue. A moment before he reclined at his utmost leisure, unaware of the fat man perched far above. He is catapulted by the Fat Man into the merciless jaws of gravity; the helmet may yet come in handy, then again, it may all be for naught.
+Copenhagen it makes me feel so good
+Copenhagen the way I know it should
+I put a little chew in my mouth
+Go spittin' and a-slobberin'
+All around the house, that
+Copenhagen, it makes me feel so good
 
-Little Helmet Man will be sorely missed after he sinks away from home and memory, but the fish needed feeding, the need was dire, his sacrifice timely. He will be remembered fondly on every Fishie Friday cookout!
+I took a chew just the other night-
+It made me feel so fine
+I Grabbed my honey baby
+And I pinched her ol' behind
+She said, "you better spit out that
+Chewin' tobaccer if you wanna kiss
+Me on the big ol' smacker
+That Copenhagen, it makes me feel so good
+
+Copenhagen it makes me feel so good
+Copenhagen the way I know it should
+I put a little chew in my mouth
+Go spittin' and a-slobberin'
+All around the house, that
+Copenhagen, it makes me feel so good
+
+I was sittin' in a bar room
+And I took a little dip--
+Drinkin' beer and talkin'
+But I had no place to spit
+So I spit a stream out on the floor
+And that bouncer flung me out the door
+That Copenhagen, it makes me feel so good
+
+Copenhagen it makes me feel so good
+Copenhagen the way I know it should
+I put a little chew in my mouth
+Go spittin' and a-slobberin'
+All around the house, that
+Copenhagen, it makes me feel so good
+
+It's a cure all too-
+It cures fits, warts, freckles, coughs
+Colds, runny nose
+Guaranteed not to rip, run or snag
+Makes conception a wonder and
+Child birth a pleasure...
+That's Copenhagen, makes me feel so good!
